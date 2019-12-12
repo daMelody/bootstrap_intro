@@ -1,5 +1,4 @@
 #main {
-    padding-top: 50px;
     border: 2px double grey;
     color: #343a40;
 }
@@ -23,7 +22,6 @@
     max-height: 400px;
 }
 
-.align-items {
-    display: flexbox;
-    align-items: center;
+#parking-charges, #registration {
+    background-color: #e9ecef;
 }
