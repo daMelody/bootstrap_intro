@@ -13,8 +13,14 @@
     color: white;
 }
 
-.jumbotron {
-    background-color: lightgrey;
+.jumbotron-fluid {
+    display: flex;
+    align-items: center;
+}
+
+.carousel-img {
+    width: 750px;
+    max-height: 400px;
 }
 
 .align-items {
