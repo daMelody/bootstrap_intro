@@ -1,6 +1,9 @@
-main {
+#main {
     padding-top: 50px;
+    border: 2px double grey;
+    color: #343a40;
 }
+
 .nav-link {
     color: lightgray;
 }
@@ -8,4 +11,13 @@ main {
 .nav-link:hover {
     background-color: black;
     color: white;
+}
+
+.jumbotron {
+    background-color: lightgrey;
+}
+
+.align-items {
+    display: flexbox;
+    align-items: center;
 }
