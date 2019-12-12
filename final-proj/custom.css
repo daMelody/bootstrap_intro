@@ -25,3 +25,12 @@
 #parking-charges, #registration {
     background-color: #e9ecef;
 }
+
+.form-group {
+    display: flex;
+}
+
+.form-control {
+    margin-left: 15px;
+    width: 50%;
+}
